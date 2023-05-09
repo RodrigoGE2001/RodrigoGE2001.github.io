@@ -12,11 +12,11 @@ The goal of this project was to identify different voices using mathematical and
 <img src="images/AMplitud.png">
 </a>
 </td>
-<td><img src="images/Frecuencias">
+<td><img src="images/Frecuencias.png">
 </a>
 </td>
 <td>
-<img src="images/Tabla">
+<img src="images/Tabla.png">
 </a>
 </td>
 </tr>
