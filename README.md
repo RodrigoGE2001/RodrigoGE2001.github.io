@@ -9,7 +9,7 @@ The goal of this project was to identify different voices using mathematical and
 <table style="width:100%">
 <tr>
 <td>
-<img src="http://i3.ytimg.com/vi/Kp4Mvapo5kc/maxresdefault.jpg">
+<img src="images/AMplitud.png">
 </a>
 </td>
 <td><img src="http://i3.ytimg.com/vi/-pWSQYpkkjk/maxresdefault.jpg">
