@@ -1,14 +1,40 @@
-## Developer Portfolio Landing Page Template
+## Career Portfolio
 
-### Introduction
+### About Me
+I am currently studying the sixth semester on Robotics and Digital Systems, on Instituto Tecnológico y Estudios Superiores de Monterrey, on Mexico.
 
-Use this template if you need a quick developer / data science portfolio! Based on a Minimal Jekyll theme for GitHub Pages.
+### Design of a Biometric System for Voice Signals Processing
+The goal of this project was to identify different voices using mathematical and statistical functions. This code was done using MATLAB, and allowed users to record their voices and analyze them. The most important function was the Fourier Fourier Transform, to find the most present frequencies. Then, we used statistical analysis to find the differences between the voice recordings, and display graphs and tables.
 
-<img src="images/demo.gif?raw=true"/>
-
-### Installation
-
-See full step by step tutorial [on Medium](https://medium.com/@evanca/set-up-your-portfolio-website-in-less-than-10-minutes-with-github-pages-d0efa8ff56fd).
+<table style="width:100%">
+<tr>
+<td>
+<img src="http://i3.ytimg.com/vi/Kp4Mvapo5kc/maxresdefault.jpg">
+</a>
+</td>
+<td><img src="http://i3.ytimg.com/vi/-pWSQYpkkjk/maxresdefault.jpg">
+</a>
+</td>
+<td>
+<img src="http://i3.ytimg.com/vi/3GymExBkKjE/maxresdefault.jpg">
+</a>
+</td>
+</tr>
+<tr>
+<td>
+Voice recording's decibels amplitud
+</a>
+</td>
+<td>
+Frecuency analysis 
+</a>
+</td>
+<td>
+Table for statistical analisis
+</a>
+</td>
+</tr>
+</table>
 ___
 
 You can use the editor on GitHub to maintain and preview the content for your website in Markdown files.
