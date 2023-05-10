@@ -38,9 +38,7 @@ Table for statistical analisis
 ___
 
 ### Intelligent Platform of Air Pressure Prototype on Agricultural Equiment
-The main goal of this project, which we worked on with John Derre, was to implement a controller to allow a bag to inflate or deflate depending on the internal pressure of it, which represented a tire. For this, the electronic components we used were a Pressure Sensor, an air pump, a solenoid valve, an LCD display, an ESP32, CAN modules, an Arduino Mega and an STM32 microcontroller.
-
-Using a closed-loop controller, we read the data from the sensor to determine the internal pressure of the bag, while the pump and the valve were turned on and off to let the air flow to or from the bag. The STM32 program was used to apply the control, including the sensor and the actuators, as well as the LCD display and the communication.
+The main goal of this project, which we worked on with John Derre, was to implement a controller to allow a bag to inflate or deflate depending on the internal pressure of it, which represented a tire. Using a closed-loop controller, we read the data from the a pressure sensor to determine the internal pressure of the bag, while an air pump and a solenoid valve were turned on and off to let the air flow to or from the bag. We used an STM32 microcontroller to apply the control, including the sensor and the actuators, as well as the LCD display and the CAN, SPI and L2C communication.
 
 Along with this, we also created a digital interface using Arduino Cloud, to view the pressure and determine de desired one. The communication was possible thanks to a CAN protocol, the ESP32 and the CAN modules. Finally, we used an extra sensor to read the movement of our plant. With this, we used the Fast Fourier Transform to analyze the frequency of the vibrations. 
 
